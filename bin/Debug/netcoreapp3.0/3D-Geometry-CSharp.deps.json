@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "3D-Geometry-CSharp/1.0.0": {
+        "runtime": {
+          "3D-Geometry-CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3D-Geometry-CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

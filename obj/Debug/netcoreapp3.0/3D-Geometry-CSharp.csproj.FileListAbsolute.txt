@@ -1,0 +1,11 @@
+C:\Projects\OpenSource\3D-Geometry-CSharp\bin\Debug\netcoreapp3.0\3D-Geometry-CSharp.exe
+C:\Projects\OpenSource\3D-Geometry-CSharp\bin\Debug\netcoreapp3.0\3D-Geometry-CSharp.deps.json
+C:\Projects\OpenSource\3D-Geometry-CSharp\bin\Debug\netcoreapp3.0\3D-Geometry-CSharp.runtimeconfig.json
+C:\Projects\OpenSource\3D-Geometry-CSharp\bin\Debug\netcoreapp3.0\3D-Geometry-CSharp.runtimeconfig.dev.json
+C:\Projects\OpenSource\3D-Geometry-CSharp\bin\Debug\netcoreapp3.0\3D-Geometry-CSharp.dll
+C:\Projects\OpenSource\3D-Geometry-CSharp\bin\Debug\netcoreapp3.0\3D-Geometry-CSharp.pdb
+C:\Projects\OpenSource\3D-Geometry-CSharp\obj\Debug\netcoreapp3.0\3D-Geometry-CSharp.csprojAssemblyReference.cache
+C:\Projects\OpenSource\3D-Geometry-CSharp\obj\Debug\netcoreapp3.0\3D-Geometry-CSharp.AssemblyInfoInputs.cache
+C:\Projects\OpenSource\3D-Geometry-CSharp\obj\Debug\netcoreapp3.0\3D-Geometry-CSharp.AssemblyInfo.cs
+C:\Projects\OpenSource\3D-Geometry-CSharp\obj\Debug\netcoreapp3.0\3D-Geometry-CSharp.dll
+C:\Projects\OpenSource\3D-Geometry-CSharp\obj\Debug\netcoreapp3.0\3D-Geometry-CSharp.pdb
